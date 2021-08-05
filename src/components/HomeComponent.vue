@@ -16,6 +16,18 @@
       class="p-mt-3"
       @click="$router.push({ path: '/Signin' })"
     />
+    <a
+      href="https://www.youtube.com/watch?v=mkSYws1tLhk"
+      style="text-decoration:none;"
+      target="_blank"
+    >
+      <Button
+        label="Watch Demo"
+        icon="pi pi-video"
+        iconPos="right"
+        class="p-mt-3 p-ml-3"
+      />
+    </a>
   </div>
 </template>
 

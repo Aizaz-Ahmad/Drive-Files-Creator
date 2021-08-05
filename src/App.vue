@@ -14,6 +14,13 @@
       <router-view />
     </div>
   </main>
+  <a href="https://github.com/Aizaz-Ahmad/Drive-Files-Creator" target="_blank">
+    <Button
+      label="Github"
+      icon="pi pi-github"
+      class="p-button-rounded github-button"
+    />
+  </a>
 </template>
 
 <script>

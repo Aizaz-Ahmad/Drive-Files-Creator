@@ -21,6 +21,16 @@ ul.p-menubar-root-list {
 .p-menubar-button {
   margin-left: auto;
 }
+.github-button {
+  background-color: black;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+}
+.p-button.github-button:active,
+.p-button.github-button:hover {
+  background-color: black;
+}
 .p-inputtextarea {
   width: 100%;
 }
