@@ -16,7 +16,7 @@ body {
   color: black;
 }
 ul.p-menubar-root-list {
-  margin-left: auto;
+  margin-left: auto !important;
 }
 .p-menubar-button {
   margin-left: auto;
