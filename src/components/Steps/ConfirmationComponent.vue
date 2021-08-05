@@ -39,10 +39,6 @@
 </template>
 
 <script>
-  /*eslint-disable no-unused-vars */
-  const VueGapi = require('vue-gapi');
-  const VueRouter = require('vue-router');
-  const VueLoading = require('vue-loading-overlay');
   import ConfirmPopup from 'primevue/confirmpopup';
   import Listbox from 'primevue/listbox';
   import FolderOption from '../FolderOption.vue';

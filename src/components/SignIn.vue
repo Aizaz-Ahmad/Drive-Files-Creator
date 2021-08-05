@@ -25,10 +25,6 @@
 </template>
 
 <script>
-  /*eslint-disable no-unused-vars */
-  const VueGapi = require('vue-gapi');
-  const VueRouter = require('vue-router');
-  const VueLoading = require('vue-loading-overlay');
   import Toast from 'primevue/toast';
   export default {
     name: 'SignIn',

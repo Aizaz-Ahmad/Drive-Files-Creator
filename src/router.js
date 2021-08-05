@@ -1,6 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router';
 let $gapi;
 const setGapi = gapi => ($gapi = gapi);
+//creating router instance
 const router = createRouter({
   history: createWebHistory(),
   routes: [

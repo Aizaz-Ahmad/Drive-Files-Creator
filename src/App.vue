@@ -43,7 +43,6 @@
             icon: 'pi pi-fw pi-user',
             to: '/Main',
           },
-
           {
             label: 'Logout',
             icon: 'pi pi-fw pi-power-off',
@@ -88,12 +87,6 @@
         return this.isUserLoggedIn
           ? this.loggedInUserItems
           : this.loggedOutUserItems;
-      },
-    },
-    emits: {
-      async updateStatus() {
-        await this.updateLoginStatus();
-        return true;
       },
     },
   };
