@@ -100,8 +100,3 @@
     padding: 50px 0px;
   }
 </style>
-<style>
-  ul.p-menubar-root-list {
-    margin-left: auto;
-  }
-</style>
