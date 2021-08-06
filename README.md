@@ -54,7 +54,7 @@ To get a local copy up and running follow these simple example steps.
     ```    
 ## Authors
 
-👤 **Author1**
+👤 **Aizaz Ahmad**
 
 - GitHub: [@Aizaz-Ahmad](https://github.com/Aizaz-Ahmad)
 - Twitter: [@aizazahmad0](https://twitter.com/aizazahmad0)
