@@ -5,32 +5,31 @@
 
 [![DRIVE-FILES-DEMO](https://adrotog-yt-embed.herokuapp.com/embed?v=mkSYws1tLhk)](https://www.youtube.com/watch?v=mkSYws1tLhk)
 
+## Website link
+
+[https://drive-files-creator.netlify.app/](https://drive-files-creator.netlify.app/)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML, CSS, JavaScript
+- Vue.js
+- Google OAuth, Google Drive API
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+- Node.js, Vue CLI should be installed to run the application
+- You should have API key for Google Drive API, Google Picker API and OAuth Client ID.
 ### Setup
-
+- Clone the resposity by using the following command
+    ```bash
+    git clone https://github.com/Aizaz-Ahmad/Drive-Files-Creator.git
+    ```
 ### Install
 
 ### Usage
@@ -45,15 +44,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Aizaz-Ahmad](https://github.com/Aizaz-Ahmad)
+- Twitter: [@aizazahmad0](https://twitter.com/aizazahmad0)
+- LinkedIn: [aizazahmad0](https://linkedin.com/in/aizazahmad0)
 
 ## 🤝 Contributing
 
