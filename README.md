@@ -14,6 +14,17 @@
 - HTML, CSS, JavaScript
 - Vue.js
 - Google OAuth, Google Drive API
+  
+## Modules Used
+
+- [Vue-gapi](https://github.com/vue-gapi/vue-gapi)
+- [PrimeVue](https://github.com/primefaces/primevue)
+- [Vue-loading-overlay](https://github.com/ankurk91/vue-loading-overlay)
+- [Vue-Router](https://github.com/vuejs/vue-router)
+
+## APIs Used
+- [Google Drive Api](https://developers.google.com/drive/api/v3/about-sdk)
+- [Google Picker Api](https://developers.google.com/picker/docs)
 
 ## Getting Started
 
@@ -28,6 +39,7 @@ To get a local copy up and running follow these simple example steps.
     ```bash
         > git clone https://github.com/Aizaz-Ahmad/Drive-Files-Creator.git
     ```
+- Replace your API key and Client ID with ones inside [.env](https://github.com/Aizaz-Ahmad/Drive-Files-Creator/blob/master/.env) file.
 ### Install
 - Install the node_modules by following command:
     
@@ -35,7 +47,7 @@ To get a local copy up and running follow these simple example steps.
         > npm install
     ```
 ### Usage
-- To Serve the Application use the following command:
+- To Serve the Application locally use the following command:
     
     ```bash
         > npm run serve
@@ -57,13 +69,3 @@ Feel free to check and report the issues at the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
