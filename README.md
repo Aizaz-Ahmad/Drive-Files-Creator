@@ -9,8 +9,6 @@
 
 [https://drive-files-creator.netlify.app/](https://drive-files-creator.netlify.app/)
 
-Additional description about the project and its features.
-
 ## Built With
 
 - HTML, CSS, JavaScript
@@ -19,7 +17,6 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
@@ -27,19 +24,22 @@ To get a local copy up and running follow these simple example steps.
 - You should have API key for Google Drive API, Google Picker API and OAuth Client ID.
 ### Setup
 - Clone the resposity by using the following command
+    
     ```bash
-    git clone https://github.com/Aizaz-Ahmad/Drive-Files-Creator.git
+        > git clone https://github.com/Aizaz-Ahmad/Drive-Files-Creator.git
     ```
 ### Install
-
+- Install the node_modules by following command:
+    
+    ```bash
+        > npm install
+    ```
 ### Usage
-
-### Run tests
-
-### Deployment
-
-
-
+- To Serve the Application use the following command:
+    
+    ```bash
+        > npm run serve
+    ```    
 ## Authors
 
 👤 **Author1**
@@ -52,7 +52,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check and report the issues at the [issues page](../../issues/).
 
 ## Show your support
 
